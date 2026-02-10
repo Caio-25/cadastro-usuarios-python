@@ -16,7 +16,7 @@ Projeto simples em Python para cadastro de usuários via terminal.
 -  Listas
 -  Dicionários
 -  Estruturas condicionais
--  Laços de repetição
+-  Laços de repetições
 -  Funções
 -  Lógica de programação
 
