@@ -13,12 +13,12 @@ Projeto simples em Python para cadastro de usuários via terminal.
 - Python 3
 
 ## Conceitos aplicados
-- Listas
-- Dicionários
-- Estruturas condicionais
-- Laços de repetição
-- Funções
-- Lógica de programação
+-  Listas
+-  Dicionários
+-  Estruturas condicionais
+-  Laços de repetição
+-  Funções
+-  Lógica de programação
 
 ## Como executar
 ```bash
