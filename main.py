@@ -36,7 +36,7 @@ def buscar_usuario():
 
     for usuario in usuarios:
         if usuario["nome"].lower() == nome_busca.lower():
-            print(f"Encontrado: {usuario['nome']} - {usuario['email']}")
+            print(f"Encontrado: nome ({usuario['nome']}) - email ({usuario['email']}) - idade ({usuario['idade']})")
             return
 
     print("Usuário não encontrado.")
